@@ -258,9 +258,9 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Umoh Andem</summary>
+    <summary>Idara Ekong</summary>
     <ul>
-    <li><a href="https://www.github.com/umohpyro">Github</a></li>
-    <li><a href="mailto:andemumoh@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/idaraekong">Github</a></li>
+    <li><a href="mailto:idaraekong2@gmail.com">e-mail</a></li>
     </ul>
 </details>
